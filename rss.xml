@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Movie Night]]></title>
+        <description><![CDATA[Movie Night]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 05 Jun 2016 12:23:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lawrence of Arabia]]></title>
+            <description><![CDATA[<article><h1>Lawrence of Arabia</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c266a981-4cef-40d3-9e45-426b39025127.jpg"></article>]]></description>
+            <link>undefinedlawrence-of-arabia/index.html</link>
+            <guid isPermaLink="false">b1b9e502-1b65-4f6e-abf5-462863cd27bb</guid>
+            <pubDate>Sun, 05 Jun 2016 02:45:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
