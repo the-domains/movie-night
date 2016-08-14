@@ -1,7 +1,7 @@
 name: Movie Night
 favicon: null
 layout_spectrum: 0.99783
-typography_spectrum: 0.75043
+typography_spectrum: 0.25
 cta:
   domain: null
   bucket: null
