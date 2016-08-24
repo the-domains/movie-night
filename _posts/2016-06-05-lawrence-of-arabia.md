@@ -1,22 +1,19 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-06-05T02:45:50.863Z'
-dateModified: '2016-05-11T04:04:33.243Z'
-title: Lawrence of Arabia
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
+datePublished: '2016-08-24T04:46:15.687Z'
 sourcePath: _posts/2016-06-05-lawrence-of-arabia.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-24T04:46:14.728Z'
+title: Lawrence of Arabia
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
+starred: false
 url: lawrence-of-arabia/index.html
 _type: Article
 
