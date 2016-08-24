@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Movie Night]]></title>
         <description><![CDATA[Movie Night]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/movie-night/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 12:23:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Aug 2016 04:46:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/movie-night/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lawrence of Arabia]]></title>
             <description><![CDATA[<article><h1>Lawrence of Arabia</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c266a981-4cef-40d3-9e45-426b39025127.jpg"></article>]]></description>
-            <link>undefinedlawrence-of-arabia/index.html</link>
+            <link>https://thegrid.ai/movie-night/lawrence-of-arabia/index.html</link>
             <guid isPermaLink="false">b1b9e502-1b65-4f6e-abf5-462863cd27bb</guid>
-            <pubDate>Sun, 05 Jun 2016 02:45:50 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2016 04:46:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
